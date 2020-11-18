@@ -1,6 +1,6 @@
 # What is POGO?
 
-POGO stands for "Online Profile Generated Optimization". 
+POGO stands for "Online Profile Guided Optimization". 
 "But that is not the right order for the acronym!" you might note. 
 If UTC can stand for "Coordinated Universal Time", then I feel my acronym can
 swap some letters around to sound better.
