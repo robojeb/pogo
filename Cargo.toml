@@ -20,4 +20,4 @@ once_cell = "1.5.2"
 parking_lot = "0.11.0"
 crossbeam = "0.8.0"
 chashmap = "2.2.2"
-pogo_attr = {path = "./pogo_attr"}
+pogo_attr = "0.0.1"
