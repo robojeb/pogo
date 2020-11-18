@@ -4,6 +4,9 @@ version = "0.0.1"
 authors = ["Jeb Brooks <robojeb@gmail.com>"]
 edition = "2018"
 
+license = "MIT"
+description = "Attribute macro for the POGO online optimization library"
+
 [lib]
 proc-macro = true
 
